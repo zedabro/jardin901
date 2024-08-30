@@ -1,0 +1,15 @@
+.card {
+    background-color: rgb(127, 162, 214);
+    color: white;
+    margin: 5px 1px;
+    border-radius: 20px;
+}
+.card:hover {
+    background-color: rgb(202, 227, 238);
+    color: black;
+}
+.icon {
+    font-size: 2.0rem; 
+    margin-bottom: 10px;
+    text-align: right;
+}
